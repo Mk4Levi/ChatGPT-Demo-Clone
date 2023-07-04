@@ -2,8 +2,6 @@
 
 ## => This is my CHAT-GPT CLone built with React.js
 
-## Website Link => https://mk-chatgpt-demo-clone.netlify.app/
-
 <h2>Getting Started</h2>
 
 1. To get started with this project, you will need to have `Node.js` and `NPM` installed on your system.
