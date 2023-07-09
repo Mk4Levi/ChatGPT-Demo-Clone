@@ -1,4 +1,5 @@
 //
+import mkLogo from "../assets/MK-Logo.png";
 import "../css/PreLoader.css";
 
 const PreLoader = () => {
@@ -9,7 +10,13 @@ const PreLoader = () => {
         <div id="ring"></div>
         <div id="ring"></div>
         <div id="ring"></div>
-        <div id="h3">Loading...</div>
+        <div id="h3">
+          <img
+            style={{ width: "70px", height: "70px" }}
+            src={mkLogo}
+            alt="loaderLogo"
+          />
+        </div>
       </div>
     </div>
   );
