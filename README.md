@@ -1,6 +1,12 @@
 # My ChatGPT Demo Clone
 
-## => This is my CHAT-GPT CLone built with React.js and Open-AI API.
+## => This is my CHAT-GPT CLone built with React.js which aims to develop a conversational AI system inspired by OpenAI's GPT architecture.
+
+## Website Link => https://mk-chatgpt-demo-clone.vercel.app/
+
+## Project's Screenshots =>
+
+![image](./src/assets/ss.png)
 
 <h2>Getting Started</h2>
 
