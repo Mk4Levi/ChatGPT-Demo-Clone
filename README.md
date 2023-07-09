@@ -1,6 +1,6 @@
 # My ChatGPT Demo Clone
 
-## => This is my CHAT-GPT CLone built with React.js
+## => This is my CHAT-GPT CLone built with React.js and Open-AI API.
 
 <h2>Getting Started</h2>
 
